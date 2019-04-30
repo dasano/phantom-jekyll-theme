@@ -7,7 +7,7 @@
 
 # Site settings
 title: Phantom
-email:dasano2980@gmail.com
+email: dasano2980@gmail.com
 description: The Jekyll version of the Phantom theme by HTML5 UP.
 baseurl: "/phantom-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "davisasano.com" # the base hostname & protocol for your site
